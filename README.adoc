@@ -1,2 +1,3 @@
-# autoscaling
+= Autoscaling for OpenStack
+
 Investigate autoscaling for OpenStack
